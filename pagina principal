@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0, Imagen 1
+https://www.ejemplo.com/imagen1.jpg
+#EXTINF:0, Imagen 2
+https://www.ejemplo.com/imagen2.jpg
