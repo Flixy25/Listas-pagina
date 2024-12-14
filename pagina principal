@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0, Imagen 1
-https://www.ejemplo.com/imagen1.jpg
-#EXTINF:0, Imagen 2
-https://www.ejemplo.com/imagen2.jpg
+#EXTINF:0, pagina
+https://geo.dailymotion.com/player.html?video=x9aqpli
+#EXTINF:0, movil
+https://image.tmdb.org/t/p/original/ij6631QDrOq0CfSJY55ngFpnhRQ.jpg
